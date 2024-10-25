@@ -1,1 +1,2 @@
-# hiphop_camera_plugin
+# Camera Demo
+
