@@ -1,0 +1,1 @@
+# hiphop_camera_plugin
